@@ -1,12 +1,12 @@
-# nimScript
+# NIM-Script
 
-nimScript is a node project to test and debug your nim script functions right within Microsoft Visual Code
+NIM-Script is a very basic [node](https://nodejs.org/) project to develop, test and debug your [NIM](https://docs.nimsuite.com) script functions right within Microsoft Visual Code
 
 ## Installation
 
 First install [Visual Code](https://code.visualstudio.com/download)
 
-First install the latest 18.x release of [node](https://nodejs.org/en/about/previous-releases#looking-for-latest-release-of-a-version-branch)
+Next install the latest 18.x release of [node](https://nodejs.org/en/about/previous-releases#looking-for-latest-release-of-a-version-branch)
 
 Open the project folder in Visual Code and run `npm i`` in a terminal window
 
@@ -24,4 +24,3 @@ In the script.ts you can write your own script functions, some examples are prov
 Use the build task to build the output files to be able to debug your code.
 Place calls to your script functions inside main.ts
 Now run the project to execute the function in main.ts which in turn will execute your script functions.
-

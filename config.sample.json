@@ -1,0 +1,10 @@
+{
+    "serviceHost": "http://localhost:51947",
+    "serviceUser": "your NIM user name",
+    "servicePassword": "the password of the above user",
+    "proxy": {
+        "host": "localhost",
+        "port": 8888,
+        "protocol": "http"
+    }
+}

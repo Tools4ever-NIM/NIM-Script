@@ -1,3 +1,4 @@
+import { nim } from './nim'
 
 // create your nim functions in this file, an example function is provided below
 

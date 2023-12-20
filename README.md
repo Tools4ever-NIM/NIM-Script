@@ -1,6 +1,7 @@
 # NIM-Script
 
 NIM-Script is a very basic [node](https://nodejs.org/) project to develop, test and debug your [NIM](https://docs.nimsuite.com) script functions right within Microsoft Visual Code
+You can find detailed documentation in the [Wiki](https://github.com/Tools4ever-NIM/NIM-Script/wiki) a short summary is found below.
 
 ## Installation
 

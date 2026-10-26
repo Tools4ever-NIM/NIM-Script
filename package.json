@@ -12,8 +12,8 @@
     "tough-cookie": "^6.0.0"
   },
   "devDependencies": {
-    "@types/node": "^26.6.5",
-    "eslint-config-love": "^130.0.0",
+    "@types/node": "^18.19.129",
+    "eslint-config-love": "^158.0.0",
     "typescript": "^5.9.3"
   }
 }
